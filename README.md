@@ -41,20 +41,14 @@ One of the main challenges was making these separate features work together as o
 
 ## Screenshots
 
-### Main Island
-![Main Island](screenshots/island.png)
+## Screenshots
 
-### Daily Tasks
-![Daily Tasks](screenshots/tasks.png)
-
-### Daily Log
-![Daily Log](screenshots/log.png)
-
-### Island Shop
-![Island Shop](screenshots/shop.png)
-
-### Achievements
-![Achievements](screenshots/achievements.png)
+<p align="center">
+  <img src="screenshots/island.png" width="180">
+  <img src="screenshots/tasks.png" width="180">
+  <img src="screenshots/log.png" width="180">
+  <img src="screenshots/shop.png" width="180">
+</p>
 
 ## Technologies
 
