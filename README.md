@@ -39,7 +39,6 @@ The project involved designing the interface and user flow, implementing interac
 
 One of the main challenges was making these separate features work together as one consistent progression system.
 
-## Screenshots
 
 ## Screenshots
 
