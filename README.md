@@ -39,16 +39,6 @@ The project involved designing the interface and user flow, implementing interac
 
 One of the main challenges was making these separate features work together as one consistent progression system.
 
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/island.png" width="180">
-  <img src="screenshots/tasks.png" width="180">
-  <img src="screenshots/log.png" width="180">
-  <img src="screenshots/shop.png" width="180">
-</p>
-
 ## Technologies
 
 - **Swift**
