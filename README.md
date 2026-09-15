@@ -7,8 +7,7 @@ The idea behind EcoLand was to make everyday environmental habits more engaging 
 
 ## 🎥 Demo
 
-**## 🎥 Demo
-[Watch the EcoLand Demo](https://videotourl.com/videos/1789405957336-f776e02b-afc2-4f6c-86a7-67ac8ff778b2.mov)**
+**[Watch the EcoLand Demo](https://videotourl.com/videos/1789405957336-f776e02b-afc2-4f6c-86a7-67ac8ff778b2.mov)**
 
 The demo shows the main experience, including the island, daily tasks, environmental actions, achievements, and island shop.
 
