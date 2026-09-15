@@ -54,5 +54,4 @@ If I continue developing EcoLand, I would like to expand the island system, intr
 
 ---
 
-**Developed by Celine Angelica Japardi**  
-**Apple WWDC Swift coding programme**
+*Developed by Celine Angelica Japardi*
