@@ -1,11 +1,11 @@
 # WWDC-apple-Swift-Student-Challenge
-# EcoLand 🌱
+# EcoLand 
 
 **EcoLand** is a sustainability-focused interactive app I developed in Swift through Apple's WWDC Swift coding programme.
 
 The idea behind EcoLand was to make everyday environmental habits more engaging by connecting real-world actions with progress inside a virtual world. Users can complete eco-friendly activities, earn points, build streaks, unlock items, and develop their own island over time.
 
-## 🎥 Demo
+## Demo
 
 **[Watch the EcoLand Demo](https://videotourl.com/videos/1789405957336-f776e02b-afc2-4f6c-86a7-67ac8ff778b2.mov)**
 
@@ -13,15 +13,15 @@ The demo shows the main experience, including the island, daily tasks, environme
 
 ## Features
 
-- 🌱 **Daily Tasks** — complete simple environmental activities and earn points
-- 📝 **Daily Log** — record actions taken for the environment
-- 🔥 **Streaks** — maintain consistent environmental habits
-- 🎯 **Eco Goals** — set personal sustainability goals
-- 🏆 **Achievements** — track progress, points, levels, and milestones
-- 🏝️ **Island Development** — use earned points to build and customise the island
-- 🛍️ **Island Shop** — unlock trees, plants, animals, and structures
-- 📚 **Eco Facts** — learn about environmental topics
-- 💾 **Save & Load** — keep island progress for future sessions
+-  **Daily Tasks** — complete simple environmental activities and earn points
+-  **Daily Log** — record actions taken for the environment
+-  **Streaks** — maintain consistent environmental habits
+-  **Eco Goals** — set personal sustainability goals
+-  **Achievements** — track progress, points, levels, and milestones
+-  **Island Development** — use earned points to build and customise the island
+-  **Island Shop** — unlock trees, plants, animals, and structures
+-  **Eco Facts** — learn about environmental topics
+-  **Save & Load** — keep island progress for future sessions
 
 ## Concept
 
